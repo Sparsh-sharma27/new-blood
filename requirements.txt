@@ -175,6 +175,9 @@ python-dotenv==1.0.1
 python-multipart==0.0.9
 pytorch-gradcam==0.2.1
 pytz==2024.1
+pywin32==308
+python_version >=3.7,<3.11
+
 
 pywin32-ctypes==0.2.2
 PyYAML==6.0.1
